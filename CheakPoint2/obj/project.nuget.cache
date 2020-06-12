@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQjFTvxVT3dgsJfTTW8+/ILZi5fEguBKpAZdEY8HtD7a7rsTYiMYrXpqqlr63IOHMMUFc3c9cSeBnf1Iys7RDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gopitha Sivakumar\\Documents\\CheakPoint2\\CheakPoint2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gopitha Sivakumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
